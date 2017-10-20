@@ -1,0 +1,9 @@
+name:Fang Li
+run the code:
+	use the make file provided by professor.
+	
+	make all
+
+	./confserver
+
+	./confclient (hostname) (portnumber)
